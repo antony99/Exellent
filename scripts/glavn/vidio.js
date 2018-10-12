@@ -5,7 +5,7 @@
      })
      $('#exampleModalCenter').on('show.bs.modal', function (e) {
          $('#exampleModalCenter .modal-body').html(
-             '<iframe class="videoPlayer" src="https://www.youtube.com/embed/kc-OcOduEx0?rel=0&autoplay=1&modestbranding=1&showinfo=0&fs=0" frameborder="0" allow=" encrypted-media" allowfullscreen> </iframe>'
+             '<iframe class="videoPlayer" src="https://www.youtube.com/embed/k20CtXkO8gs?rel=0&autoplay=1&modestbranding=1&showinfo=0&fs=0" frameborder="0" allow=" encrypted-media" allowfullscreen> </iframe>'
          )
      })
      $('#exampleModalCenter').modal()
@@ -19,7 +19,7 @@
      })
      $('#exampleModalCenter').on('show.bs.modal', function (e) {
          $('#exampleModalCenter .modal-body').html(
-             '<iframe class="videoPlayer" src="https://www.youtube.com/embed/DuvN4YcJ0ZA?rel=0&autoplay=1&modestbranding=1&showinfo=0&fs=0" frameborder="0" allow=" encrypted-media" allowfullscreen> </iframe>'
+             '<iframe class="videoPlayer" src="https://www.youtube.com/embed/GNodq__TAow?rel=0&autoplay=1&modestbranding=1&showinfo=0&fs=0" frameborder="0" allow=" encrypted-media" allowfullscreen> </iframe>'
          )
      })
      $('#exampleModalCenter').modal()
@@ -32,7 +32,7 @@
      })
      $('#exampleModalCenter').on('show.bs.modal', function (e) {
          $('#exampleModalCenter .modal-body').html(
-             '<iframe class="videoPlayer" src="https://www.youtube.com/embed/yGZGSdgJVPM?rel=0&autoplay=1&modestbranding=1&showinfo=0&fs=0" frameborder="0" allow=" encrypted-media" allowfullscreen> </iframe>'
+             '<iframe class="videoPlayer" src="https://www.youtube.com/embed/jPEYpryMp2s?rel=0&autoplay=1&modestbranding=1&showinfo=0&fs=0" frameborder="0" allow=" encrypted-media" allowfullscreen> </iframe>'
          )
      })
      $('#exampleModalCenter').modal()
@@ -45,7 +45,7 @@
      })
      $('#exampleModalCenter').on('show.bs.modal', function (e) {
          $('#exampleModalCenter .modal-body').html(
-             '<iframe class="videoPlayer" src="https://www.youtube.com/embed/EcJR5d-DJzs?rel=0&autoplay=1&modestbranding=1&showinfo=0&fs=0" frameborder="0" allow=" encrypted-media" allowfullscreen> </iframe>'
+             '<iframe class="videoPlayer" src="https://www.youtube.com/embed/QJuUqsFWl0A?rel=0&autoplay=1&modestbranding=1&showinfo=0&fs=0" frameborder="0" allow=" encrypted-media" allowfullscreen> </iframe>'
          )
      })
      $('#exampleModalCenter').modal()
