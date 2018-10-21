@@ -4,7 +4,7 @@
 @import url(glavn-mobile.css) (max-width: 768px);
 @import url('https://fonts.googleapis.com/css?family=Marck+Script|Underdog|Jura:500');
 body {
-    background: url("../assets/backgr.jpg");
+    background: url("../assets/zad_fon.jpg");
 }
 
 .glavn {

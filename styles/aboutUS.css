@@ -4,7 +4,7 @@
 @import url(aboutUS-mobile.css) (max-width: 768px);
 @import url("https://fonts.googleapis.com/css?family=Anonymous+Pro:700|Underdog|Amatic+SC|Lobster|Marck+Script|Open+Sans|Raleway|Ubuntu + Condensed");
 body {
-  background: url("../assets/backgr.jpg");
+  background: url("../assets/zad_fon.jpg");
 }
 
 .glavn {
