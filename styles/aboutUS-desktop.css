@@ -12,7 +12,8 @@
 }
 
 .txt {
-    font-size: 19px;
+    font-size: 14px;
+    float:left;
 }
 
 .font {
@@ -61,5 +62,5 @@
 
 .name-employes,
 .txt-employes {
-    font-size: 30px;
+    font-size: 20px;
 }
