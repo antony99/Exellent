@@ -2,8 +2,6 @@
 @import url(style-desktop.css) (min-width: 1024px);
 @import url(style-tablet.css) (min-width: 769px) and (max-width: 1023px);
 @import url(style-mobile.css) (max-width: 768px);
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Indie+Flower');
-@import url('https://fonts.googleapis.com/css?family=Barlow');
 /*---Ш-А-П-К-А -------------------------------------------------------------------------------------------------*/
 
 .headNav {
@@ -13,22 +11,22 @@
 
 .HeadLink:link {
   text-decoration: none;
-  color: rgb(247, 247, 247)
+  color: white
 }
 
 .HeadLink:visited {
   text-decoration: none;
-  color: rgb(247, 247, 247)
+  color: white
 }
 
 .HeadLink:active {
   text-decoration: none;
-  color: rgb(247, 247, 247)
+  color: white
 }
 
 .HeadLink:hover {
   text-decoration: none;
-  color: rgb(80, 80, 87)
+  color: whites
 }
 
 @-webkit-keyframes swing {
@@ -95,20 +93,19 @@
 .batton {
   padding-top: 8px;
   margin: 0px 15px;
-  font-family: 'Amatic SC', cursive;
   letter-spacing: 0.08em;
   font-weight: 600;
 }
 
 .dropdown-menu {
   position: relative;
-  color: #ffffff !important;
-  background: black !important;
+  color: #000000 !important;
+  background: white !important;
   text-align: center !important
 }
 
 .dropdown-item {
-  color: #9d9d9d !important;
+  color: #000000 !important;
 }
 
 .contactPic {

@@ -14,15 +14,5 @@ body {
 }
 
 .glavn_name {
-  font-family: "jokerman", jokerman;
   text-shadow: 3px 5px 3px rgba(0, 0, 0, 60), 0 0 1em rgb(2, 2, 2);
-}
-
-.portal {
-  font-family: 'Underdog', cursive;
-}
-
-.txt,
-.txa {
-  font-family: 'Jura', sans-serif;
 }

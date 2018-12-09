@@ -10,7 +10,6 @@ body {
 .glavn {
   background: url("../assets/space.jpg");
   background-size: cover;
-  font-family: "jokerman", jokerman;
   text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.644), 0 0 2em rgb(0, 0, 0);
 }
 
@@ -22,28 +21,9 @@ body {
 .we {
   background: url("../assets/glavn/qw.gif");
   background-size: cover;
-  font-family: 'Ubuntu Condensed', sans-serif;
-}
-
-.portal,
-.txt {
-  font-family: 'Underdog', cursive;
-}
-
-.position {
-  font-family: "Open Sans", sans-serif;
-}
-
-.FI {
-  font-family: 'Underdog', cursive;
-}
-
-.txt-riviews {
-  font-family: "Segoe UI Black";
 }
 
 .end {
-  font-family: "Marck Script", cursive;
   text-shadow: 5px 5px 20px rgb(47, 11, 207), 0 0 5em rgb(42, 84, 199);
 }
 
@@ -56,7 +36,6 @@ body {
 }
 
 .question {
-  font-family: "Raleway", sans-serif;
   color: #a0b0b6;
 }
 
@@ -70,12 +49,10 @@ body {
 
 .txt-employes {
   text-align: center;
-  font-family: "Monotype Corsiva";
 }
 
 .name-employes {
   text-align: center;
-  font-family: "Harrington";
 }
 
 .grow:hover {
