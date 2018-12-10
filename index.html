@@ -18,17 +18,17 @@
     <link rel="stylesheet" href="styles/glavn.css">
     <link rel="stylesheet" href="styles/style.css">
 
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" media="screen,projection" href="styles/ui.totop.css" />
     <!--стили "навверх" -->
-
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
         crossorigin="anonymous">
 
     <script src="scripts/wow.min.js" type="text/javascript"></script>
+
+    <script src="https://unpkg.com/vue"></script>
 
     <script>
         new WOW().init();
@@ -84,7 +84,7 @@
                     <li class="nav-item active dropdown text-center">
 
                         <a class="nav-link dropdown-toggle swing batton" id="navbarDropdown1" role="button" data-toggle="dropdown">
-                             Фильмы
+                            Фильмы
                         </a>
 
 
@@ -1081,13 +1081,9 @@
 
                 <div class="w-100"></div>
 
-                <div class=" col-12 p-2 Footer text-center">
-
-                    Все права защищены законодательством РФ. Любая перепечатка материалов без разрешения редакции
-                    запрещена!
-
+                <div id="app">
+                    <p>{{ message }}</p>
                 </div>
-
             </div>
 
 
@@ -1118,9 +1114,11 @@
                 crossorigin="anonymous"></script>
 
             <script src="scripts/glavn/vidio.js" type="text/javascript"></script>
+            
+            <script src="scripts/main.js" type="text/javascript"></script>
 
-            <script src="scripts/preolader.js" type="text/javascript"></script>
-
+        </div>
+    </div>
 
 </body>
 
